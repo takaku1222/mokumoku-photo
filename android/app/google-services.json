@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "990229442064",
+    "project_id": "cloud-photo-154e8",
+    "storage_bucket": "cloud-photo-154e8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:990229442064:android:63750b0592f6c37dd6a495",
+        "android_client_info": {
+          "package_name": "jp.taka.coludphoto.colud_photo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "990229442064-qv1ps2emmq67sqmbgfjf8es4paqhhn5j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCC1GQllHVIDBNqNyt023t_yxsxGLQbOwY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "990229442064-qv1ps2emmq67sqmbgfjf8es4paqhhn5j.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "990229442064-s6pm6eiggaggldcdrttg480jm91dfr6e.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "jp.taka.coludphoto.coludPhoto"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
