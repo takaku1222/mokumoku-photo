@@ -8,7 +8,7 @@ import 'package:provider/provider.dart';
 
 class CameraDisplay extends StatelessWidget {
   final Stream<QuerySnapshot> _usersStream =
-      FirebaseFirestore.instance.collection('albums').snapshots();
+      FirebaseFirestore.instance.collection('users').snapshots();
 
   final String imgPath;
 

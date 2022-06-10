@@ -30,8 +30,8 @@ class AlbumModel extends ChangeNotifier {
 
   Future<void> delete(Album album) async {
     await FirebaseFirestore.instance
-        .collection('albums') // コレクションID
-        .doc(album.id) // ドキュメントID
+        .collection('albums')
+        .doc(album.id)
         .delete();
   }
 }
